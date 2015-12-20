@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d6cab28-a1de-4cc4-a594-27ef9e04025b" name="300 Review" url="https://github.com/CommunistSasquatch/300-Review.git">
+        <fileTransfer host="https://github.com/CommunistSasquatch/300-Review.git" port="21" username="Communist_Sasquatch">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

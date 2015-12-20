@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="300 Review" uploadOnCheckin="7d6cab28-a1de-4cc4-a594-27ef9e04025b">
+    <serverData>
+      <paths name="300 Review">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="300 Review" />
+  </component>
+</project>
